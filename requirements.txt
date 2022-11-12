@@ -1,0 +1,8 @@
+#Required python pakages to run this project
+numpy
+pandas
+scikit-learn
+flask==1.1.4
+gunicorn
+catboost
+requests
